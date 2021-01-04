@@ -5,3 +5,4 @@ membuat web statis menggunakan notepad atau sublime text
 membuat program php
 mempelajari exampp
 git dan git hub
+mempelajari branch
